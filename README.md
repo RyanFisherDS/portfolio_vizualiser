@@ -30,7 +30,7 @@ pip install numpy
 Run the example in `portfolio_viz.py` directly:
 
 ```powershell
-python stylebox.py
+python portfolio_viz.py
 ```
 
 This will display the blended style box for an example portfolio.
