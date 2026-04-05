@@ -138,7 +138,7 @@ avem = StyleBox(
 )
 
 if __name__ == "__main__":
-    # e.g. 80% AVCG, 20% AVSG
+    # e.g. 75% AVCG, 15% AVSG, 10% AVEM
     portfolio = blend([
     (avcg, 0.75),
     (avsg, 0.15),
